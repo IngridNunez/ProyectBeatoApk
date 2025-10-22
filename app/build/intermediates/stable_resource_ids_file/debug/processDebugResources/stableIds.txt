@@ -1,3 +1,4 @@
+com.example.formularioscompose:mipmap/ic_launcher_foreground = 0x7f0d0002
 com.example.formularioscompose:macro/m3_comp_suggestion_chip_container_shape = 0x7f0c0117
 com.example.formularioscompose:layout/abc_action_mode_bar = 0x7f0b0004
 com.example.formularioscompose:styleable/KeyFramesVelocity = 0x7f110042

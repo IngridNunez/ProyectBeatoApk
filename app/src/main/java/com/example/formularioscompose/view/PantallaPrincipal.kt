@@ -12,10 +12,11 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
+import androidx.navigation.NavController
 import com.example.formularioscompose.viewmodel.EstadoViewModel
 
 @Composable
-fun PantallaPrincipal(vm: EstadoViewModel = viewModel()) {
+fun PantallaPrincipal(vm: EstadoViewModel = viewModel(), navController: NavController) {
     val estado = vm.activo.collectAsState()
     val mensaje = vm.mostrarMensaje.collectAsState()
 
@@ -47,6 +48,19 @@ fun PantallaPrincipal(vm: EstadoViewModel = viewModel()) {
             AnimatedVisibility(visible = mensaje.value) {
                 Text("¡Estado guardado exitosamente!", color = Color(0xFF4CAF50))
             }
+            Button(
+                onClick = { navController.navigate("FormularioScreen") },
+                modifier = Modifier.fillMaxWidth()
+            ){ Text("Registrarse") }
+
+            Button(
+                onClick = { navController.navigate("perfil") },
+                modifier = Modifier.fillMaxWidth()
+            ){ Text("Iniciar Sesión") }
+
+
+
+
         }
     }
 }

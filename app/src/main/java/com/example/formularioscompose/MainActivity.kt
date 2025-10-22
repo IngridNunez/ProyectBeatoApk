@@ -34,5 +34,6 @@ fun AppNav() {
         composable("FormularioScreen") { FormularioScreen(navController, usuarioViewModel) }
         composable("resumen") { ResumenScreen(usuarioViewModel) }
         composable("perfil") { PerfilScreen() }
+        composable("Login") {FormularioScreen(navController,usuarioViewModel)}
     }
 }
