@@ -44,6 +44,9 @@ fun FormularioScreen(navController: NavController, viewModel: UsuarioViewModel) 
             supportingText = { estado.errores.clave?.let { Text(it, color = MaterialTheme.colorScheme.error) } },
             modifier = Modifier.fillMaxWidth()
         )
+
+
+
         OutlinedTextField(
             value = estado.direccion,
             onValueChange = viewModel::onDireccionChange,
@@ -73,5 +76,7 @@ fun FormularioScreen(navController: NavController, viewModel: UsuarioViewModel) 
             onClick = { navController.navigate("perfil") },
             modifier = Modifier.fillMaxWidth()
         ) { Text("Ir a Perfil (cámara/galería)") }
+
+
     }
 }

@@ -20,6 +20,10 @@ class UsuarioViewModel : ViewModel() {
     fun onClaveChange(valor: String) {
         _estado.update { it.copy(clave = valor, errores = it.errores.copy(clave = null)) }
     }
+
+
+
+
     fun onDireccionChange(valor: String) {
         _estado.update { it.copy(direccion = valor, errores = it.errores.copy(direccion = null)) }
     }
