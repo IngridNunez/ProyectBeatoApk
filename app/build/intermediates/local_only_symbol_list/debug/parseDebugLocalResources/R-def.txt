@@ -2,6 +2,26 @@ R_DEF: Internal format may change without notice
 local
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable imagen1
+drawable imagen10
+drawable imagen11
+drawable imagen12
+drawable imagen13
+drawable imagen14
+drawable imagen15
+drawable imagen16
+drawable imagen17
+drawable imagen18
+drawable imagen19
+drawable imagen2
+drawable imagen20
+drawable imagen3
+drawable imagen4
+drawable imagen5
+drawable imagen6
+drawable imagen7
+drawable imagen8
+drawable imagen9
 drawable logo
 id buttonBack
 id textWelcome

@@ -59,25 +59,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Duoc\\Desktop\\ProyectBeatoApk-main\\app\\src\\main\\res\\values\\themes.xml",
-                    "from": {
-                        "startLines": "10,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "380,124",
-                        "endLines": "16,3",
-                        "endColumns": "12,95",
-                        "endOffsets": "742,215"
-                    },
-                    "to": {
-                        "startLines": "6426,6430",
-                        "startColumns": "4,4",
-                        "startOffsets": "451204,451325",
-                        "endLines": "6429,6430",
-                        "endColumns": "12,94",
-                        "endOffsets": "451320,451415"
-                    }
-                },
-                {
                     "source": "C:\\Users\\Duoc\\.gradle\\caches\\9.0-milestone-1\\transforms\\5df4aefcbb78ba5e0dc3ed528b35bd44\\transformed\\navigation-runtime-2.8.3\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,10,13",
@@ -111,6 +92,25 @@
                         "startOffsets": "120892",
                         "endColumns": "53",
                         "endOffsets": "120941"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Duoc\\Documents\\ProyectBeatoApk-main\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "10,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "380,124",
+                        "endLines": "16,3",
+                        "endColumns": "12,95",
+                        "endOffsets": "742,215"
+                    },
+                    "to": {
+                        "startLines": "6426,6430",
+                        "startColumns": "4,4",
+                        "startOffsets": "451204,451325",
+                        "endLines": "6429,6430",
+                        "endColumns": "12,94",
+                        "endOffsets": "451320,451415"
                     }
                 },
                 {
@@ -150,6 +150,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\Duoc\\Documents\\ProyectBeatoApk-main\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "59",
+                        "endOffsets": "71"
+                    },
+                    "to": {
+                        "startLines": "1908",
+                        "startColumns": "4",
+                        "startOffsets": "127971",
+                        "endColumns": "59",
+                        "endOffsets": "128026"
+                    }
+                },
+                {
                     "source": "C:\\Users\\Duoc\\.gradle\\caches\\9.0-milestone-1\\transforms\\b760da4262ad157ac1f2b988bb0b210b\\transformed\\appcompat-resources-1.6.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,18,24,34,50",
@@ -183,23 +200,6 @@
                         "startOffsets": "120789",
                         "endColumns": "42",
                         "endOffsets": "120827"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Duoc\\Desktop\\ProyectBeatoApk-main\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "59",
-                        "endOffsets": "71"
-                    },
-                    "to": {
-                        "startLines": "1908",
-                        "startColumns": "4",
-                        "startOffsets": "127971",
-                        "endColumns": "59",
-                        "endOffsets": "128026"
                     }
                 },
                 {

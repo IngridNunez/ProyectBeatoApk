@@ -1,23 +1,111 @@
 [
     {
-        "merged": "com.example.formularioscompose.app-debug-71:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.formularioscompose.app-main-73:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "com.example.formularioscompose.app-debug-71:/drawable_imagen16.jpeg.flat",
+        "source": "com.example.formularioscompose.app-main-73:/drawable/imagen16.jpeg"
     },
     {
-        "merged": "com.example.formularioscompose.app-debug-71:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.formularioscompose.app-main-73:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+        "merged": "com.example.formularioscompose.app-debug-71:/drawable_imagen6.jpeg.flat",
+        "source": "com.example.formularioscompose.app-main-73:/drawable/imagen6.jpeg"
+    },
+    {
+        "merged": "com.example.formularioscompose.app-debug-71:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.formularioscompose.app-main-73:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
         "merged": "com.example.formularioscompose.app-debug-71:/drawable_ic_launcher_background.xml.flat",
         "source": "com.example.formularioscompose.app-main-73:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.formularioscompose.app-debug-71:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.formularioscompose.app-main-73:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "com.example.formularioscompose.app-debug-71:/drawable_imagen3.jpeg.flat",
+        "source": "com.example.formularioscompose.app-main-73:/drawable/imagen3.jpeg"
     },
     {
         "merged": "com.example.formularioscompose.app-debug-71:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
         "source": "com.example.formularioscompose.app-main-73:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.formularioscompose.app-debug-71:/drawable_imagen9.jpeg.flat",
+        "source": "com.example.formularioscompose.app-main-73:/drawable/imagen9.jpeg"
+    },
+    {
+        "merged": "com.example.formularioscompose.app-debug-71:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.formularioscompose.app-main-73:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.formularioscompose.app-debug-71:/drawable_imagen12.jpeg.flat",
+        "source": "com.example.formularioscompose.app-main-73:/drawable/imagen12.jpeg"
+    },
+    {
+        "merged": "com.example.formularioscompose.app-debug-71:/drawable_imagen7.jpeg.flat",
+        "source": "com.example.formularioscompose.app-main-73:/drawable/imagen7.jpeg"
+    },
+    {
+        "merged": "com.example.formularioscompose.app-debug-71:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.formularioscompose.app-main-73:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.formularioscompose.app-debug-71:/drawable_imagen2.jpeg.flat",
+        "source": "com.example.formularioscompose.app-main-73:/drawable/imagen2.jpeg"
+    },
+    {
+        "merged": "com.example.formularioscompose.app-debug-71:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.formularioscompose.app-main-73:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.formularioscompose.app-debug-71:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.formularioscompose.app-main-73:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.formularioscompose.app-debug-71:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.formularioscompose.app-main-73:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.formularioscompose.app-debug-71:/drawable_imagen19.jpeg.flat",
+        "source": "com.example.formularioscompose.app-main-73:/drawable/imagen19.jpeg"
+    },
+    {
+        "merged": "com.example.formularioscompose.app-debug-71:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.formularioscompose.app-main-73:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.formularioscompose.app-debug-71:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.formularioscompose.app-main-73:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.formularioscompose.app-debug-71:/drawable_imagen11.jpeg.flat",
+        "source": "com.example.formularioscompose.app-main-73:/drawable/imagen11.jpeg"
+    },
+    {
+        "merged": "com.example.formularioscompose.app-debug-71:/drawable_imagen15.jpeg.flat",
+        "source": "com.example.formularioscompose.app-main-73:/drawable/imagen15.jpeg"
+    },
+    {
+        "merged": "com.example.formularioscompose.app-debug-71:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.formularioscompose.app-main-73:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.formularioscompose.app-debug-71:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.formularioscompose.app-main-73:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.formularioscompose.app-debug-71:/drawable_imagen8.jpeg.flat",
+        "source": "com.example.formularioscompose.app-main-73:/drawable/imagen8.jpeg"
+    },
+    {
+        "merged": "com.example.formularioscompose.app-debug-71:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.formularioscompose.app-main-73:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.formularioscompose.app-debug-71:/drawable_imagen1.jpeg.flat",
+        "source": "com.example.formularioscompose.app-main-73:/drawable/imagen1.jpeg"
+    },
+    {
+        "merged": "com.example.formularioscompose.app-debug-71:/drawable_imagen4.jpeg.flat",
+        "source": "com.example.formularioscompose.app-main-73:/drawable/imagen4.jpeg"
+    },
+    {
+        "merged": "com.example.formularioscompose.app-debug-71:/drawable_imagen18.jpeg.flat",
+        "source": "com.example.formularioscompose.app-main-73:/drawable/imagen18.jpeg"
     },
     {
         "merged": "com.example.formularioscompose.app-debug-71:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
@@ -32,59 +120,51 @@
         "source": "com.example.formularioscompose.app-main-73:/mipmap-xhdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.formularioscompose.app-debug-71:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.formularioscompose.app-main-73:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "com.example.formularioscompose.app-debug-71:/drawable_imagen20.jpeg.flat",
+        "source": "com.example.formularioscompose.app-main-73:/drawable/imagen20.jpeg"
     },
     {
-        "merged": "com.example.formularioscompose.app-debug-71:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.formularioscompose.app-main-73:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "com.example.formularioscompose.app-debug-71:/drawable_imagen14.jpeg.flat",
+        "source": "com.example.formularioscompose.app-main-73:/drawable/imagen14.jpeg"
+    },
+    {
+        "merged": "com.example.formularioscompose.app-debug-71:/drawable_imagen10.jpeg.flat",
+        "source": "com.example.formularioscompose.app-main-73:/drawable/imagen10.jpeg"
     },
     {
         "merged": "com.example.formularioscompose.app-debug-71:/xml_file_paths.xml.flat",
         "source": "com.example.formularioscompose.app-main-73:/xml/file_paths.xml"
     },
     {
-        "merged": "com.example.formularioscompose.app-debug-71:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.formularioscompose.app-main-73:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "com.example.formularioscompose.app-debug-71:/drawable_imagen5.jpeg.flat",
+        "source": "com.example.formularioscompose.app-main-73:/drawable/imagen5.jpeg"
     },
     {
         "merged": "com.example.formularioscompose.app-debug-71:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "com.example.formularioscompose.app-main-73:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.formularioscompose.app-debug-71:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.example.formularioscompose.app-main-73:/drawable/ic_launcher_foreground.xml"
-    },
-    {
-        "merged": "com.example.formularioscompose.app-debug-71:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.formularioscompose.app-main-73:/mipmap-anydpi-v26/ic_launcher.xml"
-    },
-    {
-        "merged": "com.example.formularioscompose.app-debug-71:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.formularioscompose.app-main-73:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "com.example.formularioscompose.app-debug-71:/layout_activity_second.xml.flat",
+        "source": "com.example.formularioscompose.app-main-73:/layout/activity_second.xml"
     },
     {
         "merged": "com.example.formularioscompose.app-debug-71:/mipmap-mdpi_ic_launcher.webp.flat",
         "source": "com.example.formularioscompose.app-main-73:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.formularioscompose.app-debug-71:/layout_activity_second.xml.flat",
-        "source": "com.example.formularioscompose.app-main-73:/layout/activity_second.xml"
-    },
-    {
-        "merged": "com.example.formularioscompose.app-debug-71:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.formularioscompose.app-main-73:/mipmap-hdpi/ic_launcher_foreground.webp"
+        "merged": "com.example.formularioscompose.app-debug-71:/drawable_imagen17.jpeg.flat",
+        "source": "com.example.formularioscompose.app-main-73:/drawable/imagen17.jpeg"
     },
     {
         "merged": "com.example.formularioscompose.app-debug-71:/mipmap-xhdpi_ic_launcher.webp.flat",
         "source": "com.example.formularioscompose.app-main-73:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.formularioscompose.app-debug-71:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.formularioscompose.app-main-73:/mipmap-xxxhdpi/ic_launcher_round.webp"
-    },
-    {
         "merged": "com.example.formularioscompose.app-debug-71:/mipmap-xxhdpi_ic_launcher.webp.flat",
         "source": "com.example.formularioscompose.app-main-73:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.formularioscompose.app-debug-71:/drawable_imagen13.jpeg.flat",
+        "source": "com.example.formularioscompose.app-main-73:/drawable/imagen13.jpeg"
     }
 ]
